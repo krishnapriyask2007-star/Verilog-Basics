@@ -1,2 +1,1 @@
-# Verilog-Basics
-Beginner Verilog HDL practice programs.
+This repository contains my beginner Verilog HDL practice programs and digital design learning projects.
